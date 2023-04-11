@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "5thUnlimited",
+  "repo": "container-goaumfk",
+  "name": "5thUnlimited",
+}
